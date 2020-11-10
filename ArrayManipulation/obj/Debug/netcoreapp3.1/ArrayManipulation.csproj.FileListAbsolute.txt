@@ -1,0 +1,13 @@
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.exe
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.deps.json
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.runtimeconfig.json
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.runtimeconfig.dev.json
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.dll
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\bin\Debug\netcoreapp3.1\ArrayManipulation.pdb
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.csprojAssemblyReference.cache
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.AssemblyInfoInputs.cache
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.AssemblyInfo.cs
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.csproj.CoreCompileInputs.cache
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.dll
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.pdb
+C:\Users\monisha.khapali\source\repos\ArrayManipulation\ArrayManipulation\obj\Debug\netcoreapp3.1\ArrayManipulation.genruntimeconfig.cache
